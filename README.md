@@ -1,2 +1,2 @@
 # GameStore
-GameStore
+GameStore - Angular Application
